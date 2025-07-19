@@ -22,11 +22,15 @@
 
 ## 🧩 Current Projects
 - 🔐 Studying for eJPT & building my bug bounty skills
-- 🕹️ Hosting old front-end projects on GitHub
-- ☁️ Automating setup scripts & Linux configs
+- 📝 Making cybersecurity writeups
+- 💻 Coding projects 
 
 ## 📊 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wageh1&theme=tokyonight" width="48%" />
+</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
