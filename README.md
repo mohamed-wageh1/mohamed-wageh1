@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohamed Wageh 👋
 
-<!--
-**mohamed-wageh1/mohamed-wageh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Junior Penetration Tester & Computer Engineering Student  
+🧠 Always learning and exploring tech, especially Cybersecurity & Programming  
+☕ Coffee keeps me going
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Current Projects
+- 🔐 Studying for eJPT & building my bug bounty skills
+- 🕹️ Hosting old front-end projects on GitHub
+- ☁️ Automating setup scripts & Linux configs
+
+## 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/USERNAME)
