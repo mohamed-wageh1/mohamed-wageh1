@@ -4,8 +4,6 @@
   🧠 Exploring Cybersecurity & Programming <br>
   ☕ Fuelled by Coffee
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Cybersecurity+Learner;TryHackMe+Addict;Bug+Bounty+In+Progress;Coffee+Lover+%F0%9F%92%75)](https://git.io/typing-svg)
-
 ## 🧰 Languages, Tools & Frameworks
 
 **Programming:**
