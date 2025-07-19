@@ -1,24 +1,36 @@
-# Hi, I'm Mohamed Wageh 👋
+<h1 align="center">Hi, I'm Mohamed Wageh 👋</h1>
+<p align="center">
+  💻 Junior Penetration Tester & Computer Engineering Student <br>
+  🧠 Exploring Cybersecurity & Programming <br>
+  ☕ Fuelled by Coffee
+</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Cybersecurity+Learner;TryHackMe+Addict;Bug+Bounty+In+Progress;Coffee+Lover+%F0%9F%92%75)](https://git.io/typing-svg)
 
-💻 I'm a Junior Penetration Tester & Computer Engineering Student  
-🧠 Always learning and exploring tech, especially Cybersecurity & Programming  
-☕ Coffee keeps me going
+## 🧰 Languages, Tools & Frameworks
 
-## 🛠️ Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Programming:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Cybersecurity:**
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-0088CC?style=flat&logo=nmap&logoColor=white)
-![Gobuster](https://img.shields.io/badge/-Gobuster-black?style=flat)
+![Nmap](https://img.shields.io/badge/-Nmap-0088CC?style=flat)
 ![Hydra](https://img.shields.io/badge/-Hydra-007396?style=flat)
+![Gobuster](https://img.shields.io/badge/-Gobuster-black?style=flat)
 ![Netcat](https://img.shields.io/badge/-Netcat-black?style=flat)
+
+**Database:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Others:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🧩 Current Projects
 - 🔐 Studying for eJPT & building my bug bounty skills
@@ -27,10 +39,6 @@
 
 ## 📊 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wageh1&theme=tokyonight" width="48%" />
-</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
