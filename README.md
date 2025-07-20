@@ -36,7 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/hacker.svg)
+![GitHub Stats](https://cdn.jsdelivr.net/gh/mohamed-wageh1/github-stats-terminal-style@latest/themes/hacker.svg)
 
 
 ## 📫 Connect With Me
