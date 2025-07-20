@@ -1,4 +1,3 @@
-<div style="background-color: purple;">
 <h1 align="center">Hi, I'm Mohamed Wageh 👋</h1>
 <p align="center">
   💻 Junior Penetration Tester & Computer Engineering Student <br>
@@ -42,4 +41,3 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BulletCode)
-</div>
