@@ -36,7 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://cdn.jsdelivr.net/gh/mohamed-wageh1/github-stats-terminal-style@latest/themes/hacker.svg)
+![mohamed-wageh1's Stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 📫 Connect With Me
