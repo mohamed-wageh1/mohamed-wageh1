@@ -36,19 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://yourdomain.com/spiderman-bg.png" alt="Spidey background" width="600" />
-<br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=default#gh-light-mode-only"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical" />
-</picture>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
