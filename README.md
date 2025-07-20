@@ -36,7 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=MohamedWageh&theme=road_trip&pixelate_avatar=false)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=MohamedWageh&theme=road_trip&pixelate_avatar=https://i.pinimg.com/736x/2f/51/c7/2f51c7e56020080a2afbbf1742189e4b.jpg)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
