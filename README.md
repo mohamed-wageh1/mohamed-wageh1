@@ -41,12 +41,12 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical#gh-dark-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default#gh-light-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=default#gh-light-mode-only"
     media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=radical" />
 </picture>
 </p>
 
