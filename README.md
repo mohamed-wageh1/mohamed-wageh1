@@ -36,7 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Mohamed Wageh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedWageh&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=000000&text_color=000000)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/)
