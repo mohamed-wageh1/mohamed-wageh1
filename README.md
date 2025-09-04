@@ -36,7 +36,7 @@
 - 💻 Coding projects 
 
 ## 📊 GitHub Stats
-![mohamed-wageh1's Stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&theme=dark&show_icons=true&hide_border=true&count_private=true&v=1)
+![mohamed-wageh1's Stats](https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=60)
 
 
 ## 📫 Connect With Me
