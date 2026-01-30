@@ -30,10 +30,11 @@ class MohamedWageh:
 ## 🧰 Skills & Tools
 **Programming:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
 **Cybersecurity:**
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat-square&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0088CC?style=flat) ![Hydra](https://img.shields.io/badge/-Hydra-007396?style=flat) ![Gobuster](https://img.shields.io/badge/-Gobuster-black?style=flat) ![Netcat](https://img.shields.io/badge/-Netcat-black?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat-square&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0088CC?style=flat) ![Hydra](https://img.shields.io/badge/-Hydra-007396?style=flat) ![Gobuster](https://img.shields.io/badge/-Gobuster-black?style=flat) ![Netcat](https://img.shields.io/badge/-Netcat-black?style=flat)<br>
 **Database:**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>
 **Others:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ## 🧩 Current & Past Projects
@@ -44,5 +45,3 @@ class MohamedWageh:
 🏦 Group Projects: Banking System (Java + MySQL)
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=60" width="49%" /> </div>
-🤝 Connect With Me
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-101127241/) [![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BulletCode) [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MohamedWageh) </div> ```
