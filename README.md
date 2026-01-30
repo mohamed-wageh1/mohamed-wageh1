@@ -6,7 +6,7 @@
 
 </div>
 ---
-##`whoami`
+##  `whoami`
 
 ```python
 class MohamedWageh:
@@ -36,8 +36,8 @@ class MohamedWageh:
 **Database:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>
 **Others:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-##🧩 Current & Past Projects<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)<br>
+## 🧩 Current & Past Projects<br>
 🔐 eJPT Certified — learned practical penetration testing<br>
 💻 Vulnerable Web App: built, pentested, and patched<br>
 📝 Cybersecurity writeups & bug bounty practice<br>
