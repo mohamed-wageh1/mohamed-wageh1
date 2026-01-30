@@ -6,7 +6,7 @@
 
 </div>
 ---
-## `whoami`
+##`whoami`
 
 ```python
 class MohamedWageh:
@@ -37,11 +37,9 @@ class MohamedWageh:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>
 **Others:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-## 🧩 Current & Past Projects
-🔐 eJPT Certified — learned practical penetration testing
-💻 Vulnerable Web App: built, pentested, and patched
-📝 Cybersecurity writeups & bug bounty practice
-🌐 HackTheBox & TryHackMe labs: Web, Linux, Windows
+##🧩 Current & Past Projects<br>
+🔐 eJPT Certified — learned practical penetration testing<br>
+💻 Vulnerable Web App: built, pentested, and patched<br>
+📝 Cybersecurity writeups & bug bounty practice<br>
+🌐 HackTheBox & TryHackMe labs: Web, Linux, Windows<br>
 🏦 Group Projects: Banking System (Java + MySQL)
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh1&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=60" width="49%" /> </div>
