@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=eJPT+Certified+%E2%9C%94;Bug+Bounty+%26+Web+Pentesting;Linux+%26+Networking;Coding+Projects+in+Python+and+JavaScript" alt="Typing SVG" />
 
 </div>
----<br>
+
 ##  `whoami`
 
 ```python
